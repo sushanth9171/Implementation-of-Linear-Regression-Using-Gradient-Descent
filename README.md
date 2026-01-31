@@ -23,8 +23,8 @@ RegisterNumber:
 ```
 ```/*
 Program to implement the linear regression using gradient descent.
-Developed by: V>Siri Sai
-RegisterNumber:  212225240181
+Developed by: G Sushanth
+RegisterNumber:  25011663
 */
 
 import pandas as pd
